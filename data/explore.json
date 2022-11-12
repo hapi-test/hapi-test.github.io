@@ -1,1 +1,1 @@
-{"success": true, "data": {"DatasetNames": ["RECTS", "ZHNER", "LSVT", "CONLL", "YELP", "COMMAND", "PASCAL", "IMDB", "DIGIT", "MIR", "MTWI", "FLUENT", "RAFDB", "AFFECTNET", "GMB", "AMNIST", "SHOP", "FER+", "COCO", "WAIMAI", "EXPW"]}}
+{"success": true, "data": {"DatasetNames": ["LSVT", "COCO", "CONLL", "COMMAND", "SHOP", "FLUENT", "FER+", "AFFECTNET", "GMB", "EXPW", "MIR", "RAFDB", "WAIMAI", "MTWI", "YELP", "AMNIST", "ZHNER", "DIGIT", "IMDB", "PASCAL", "RECTS"]}}
